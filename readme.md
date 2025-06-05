@@ -26,7 +26,7 @@ _Always picking up something new – currently exploring interpretable high perf
   Comprehensive supervised & unsupervised learning, PCA, and bootstrap sampling on real-world datasets.
 
 - [Direct Marketing Prediction](https://github.com/emaraitchmsc/direct_marketing_prediction)  
-  End-to-end ETL pipeline + dashboard visualizing macroeconomic and risk indicators.
+  Predicts customer response to direct marketing using Kaggle data. Includes EDA and model training with cross-validation, threshold tuning, and feature analysis.
 
 - [More Projects...](https://github.com/emaraitchmsc?tab=repositories)
 
