@@ -14,7 +14,7 @@ Always up for a new challenge, whether it’s optimizing a pipeline, visualizing
 **Data Engineering:** ETL pipelines, data cleaning, data modeling, data visualisation
 **Analytics & ML:** pandas, scikit-learn, statsmodels, seaborn, matplotlib  
 **Databases:** BigQuery, MongoDB, MySQL  
-**Tools:** Jupyter, Git, Looker Studio, Power BI, Quarto, GCP
+**Tools:** Jupyter, Git, Looker Studio, Quarto, GCP
 
 _Always picking up something new – currently exploring interpretable high performance models on an extensive iQYI dataset as a part of my master's dissertation.
 
@@ -22,11 +22,14 @@ _Always picking up something new – currently exploring interpretable high perf
 
 ## 📌 Featured Work
 
-- [Advanced Statistics Project](https://github.com/emaraitchmsc/blood_type_prediction_r)  
-  Comprehensive supervised & unsupervised learning, PCA, and bootstrap sampling on real-world datasets.
+- [Google Meridian Marketing Mix Model](https://github.com/emaraitchmsc/meridianmmm)  
+  Complete data pipeline, hyper parameter tuning and visualisations 
 
 - [Direct Marketing Prediction](https://github.com/emaraitchmsc/direct_marketing_prediction)  
   Predicts customer response to direct marketing using Kaggle data. Includes EDA and model training with cross-validation, threshold tuning, and feature analysis.
+
+- [Advanced Statistics Project](https://github.com/emaraitchmsc/blood_type_prediction_r)  
+  Comprehensive supervised & unsupervised learning, PCA, and bootstrap sampling on real-world datasets.
 
 - [More Projects...](https://github.com/emaraitchmsc?tab=repositories)
 
