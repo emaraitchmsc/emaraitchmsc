@@ -10,11 +10,11 @@ Always up for a new challenge, whether it’s optimizing a pipeline, visualizing
 
 ## 🛠️ What I Work With
 
-**Languages:** Python, R, SQL  
-**Data Engineering:** ETL pipelines, data cleaning, data modeling, data visualisation
-**Analytics & ML:** pandas, scikit-learn, statsmodels, seaborn, matplotlib  
-**Databases:** BigQuery, MongoDB, MySQL  
-**Tools:** Jupyter, Git, Looker Studio, Quarto, GCP
+- **Languages:** Python, R, SQL  
+- **Data Engineering:** ETL pipelines, data cleaning, data modeling, data visualisation
+- **Analytics & ML:** pandas, scikit-learn, statsmodels, seaborn, matplotlib  
+- **Databases:** BigQuery, MongoDB, MySQL  
+- **Tools:** Jupyter, Git, Looker Studio, Quarto, GCP
 
 _Always picking up something new – currently exploring interpretable high performance models on an extensive iQYI dataset as a part of my master's dissertation.
 
