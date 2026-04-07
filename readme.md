@@ -2,7 +2,7 @@
 
 MSc Data Science, UWE Bristol. BSc Software Engineering. Background in paid search and user acquisition.
 
-Currently a Junior SEA Manager at The Stepstone Group. Previously worked in paid search at Mehrana Marketing and as a graduate intern at UWE.
+Currently a Junior SEA Manager at The Stepstone Group. Previously a graduate intern at UWE.
 
 ---
 
